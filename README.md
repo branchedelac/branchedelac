@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am 
+- a librarian by training 📚
+- a library software migration consultant by trade 💻
+- a recent graduate of the Le Wagon Data Science & AI bootcamp 🤖
+
+
 <!--
 **branchedelac/branchedelac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
