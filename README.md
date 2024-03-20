@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I an Lisa
+A wearer of many hats 👒 whose curiosity about how things work serves as a constant inspiration to learn new skills. Among other things, it has led me to discover
+- Data science and data engineering 🤖 (I just graduated from Le Wagon's Data Science & AI bootcamp)
+- Implementing and migrating data to open source library service platform FOLIO 💻
+- Promoting free access to information as a librarian 📚
 
-I am 
-- a librarian by training 📚
-- a library software migration consultant by trade 💻
-- a recent graduate of the Le Wagon Data Science & AI bootcamp 🤖
-
+Having started my own programming journey while I was working as a librarian and often had to deal with large datasets, I am passionate about braking down perceived barriers to technology and making coding - as a tool or as a career - accessible to more people.
 
 <!--
 **branchedelac/branchedelac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
