@@ -1,6 +1,6 @@
 ### Hi 👋 I am Lisa
 A wearer of many hats 👒 whose curiosity about how things work serves as a constant inspiration to learn new skills. Among other things, it has led me to discover
-- Data science and data engineering 🤖 (I just graduated from Le Wagon's Data Science & AI bootcamp)
+- Data science and data engineering 🤖
 - Implementing and migrating data to open source library service platform FOLIO 💻
 - Promoting free access to information as a librarian 📚
 
